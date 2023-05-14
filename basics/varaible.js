@@ -29,7 +29,7 @@ console.table([accountId, accountEmail, accountPassword, accountCity, accountSta
 
 //  Note 
 
-//  Let ,const have block & local scope  and var have gobale scope
+//  Let ,const have block & local scope  and var have gobale scope and re-decalarable
 
 // when we use const ,let varaible goes in TDZ Tempory Dead Zone
 
