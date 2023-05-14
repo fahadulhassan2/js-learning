@@ -2,6 +2,7 @@ const accountId = 144553
 let accountEmail = "hitesh@google.com"
 
 var accountPassword = "12345"
+var accountPassword = "123fahg"
 // accountCity behave same like a var 
 accountCity = "Jaipur"
 let accountState;
@@ -10,7 +11,7 @@ let accountState;
 
 accountEmail = "hc@hc.com"
 accountPassword = "21212121"
-
+var accountPassword = "123fahg"
 // var accessible anywhere 
 accountCity = "Bengaluru"
 if (true) {
