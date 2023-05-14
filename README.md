@@ -42,7 +42,7 @@ Google Chrome - > V8
 Mozzila -> spiderMonkey
 Microsoft Edge -> Chakra
  
-## How Js Engine wor
+## How Js Engine work
 
 The script gets loaded as a UTF-16 byte stream from either the network, cache, or a worker, and passed to a byte stream decoder.
 The byte stream decoder decodes the bytes into tokens. The tokens are sent to the parser.
