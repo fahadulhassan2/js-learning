@@ -34,10 +34,9 @@ Microsoft -> TypeScript (2012) co-creator Anders Hejlsberg, a Danish software en
 1. Electron (Desktop)
 2. React Native (Mobile)
 
-## How javacript Work 
+## How javacript 
 
-Javascript develop by netscape -> Mozzila
 
-Google Chrome - > V8 
-Mozzila -> spiderMonkey
-Microsoft Edge -> Chakra
+
+
+                        
