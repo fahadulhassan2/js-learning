@@ -1,4 +1,4 @@
-# javaScript-learning
+# JavaScript-Learning
 
 learn javascript  with Fahad ul hassan basic to advance.
 
