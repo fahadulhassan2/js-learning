@@ -33,3 +33,10 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('sundar'))
 
 console.log(gameName.split('-'));
+
+
+let fullName = "Fahad ul Hassan"
+console.log(fullName.trim());
+console.log(fullName.includes("a")); // Returm true / false 
+console.log(fullName.search("a")); // Returm Index 
+console.log(fullName.match("a")); // Returm array
