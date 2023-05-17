@@ -1,4 +1,5 @@
-// Stack (Primitive)
+// In javaScript data types categories on the basis of how data fetch and add from memory
+// Stack (Primitive) copy value
 
 let myYoutubename = "hiteshchoudharydotcom"
 let anothername = myYoutubename; 
@@ -6,7 +7,7 @@ let anothername = myYoutubename;
 console.log(myYoutubename);
 console.log(anothername);
 
-// Heap (Non-Primitive)
+// Heap (Non-Primitive) reference value
 
 let userOne = {
     age : 54,
